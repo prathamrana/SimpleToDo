@@ -28,6 +28,7 @@ Here's a walkthrough of implemented user stories:
 ## Notes
 
 Describe any challenges encountered while building the app.
+- The toast.show() command was not working in my emulator because it was bugged when you would add or remove items
 
 ## License
 
